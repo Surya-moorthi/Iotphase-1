@@ -1,2 +1,2 @@
 # Iotphase-1
-Samrt public restroom
+Smart public restroom
